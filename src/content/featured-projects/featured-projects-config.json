@@ -38,22 +38,22 @@
             "GKE",
             "GCP"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
+        "demo": "",
+        "github": "",
+        "description": "",
+        "readMore": "",
+        "image": "",
+        "jpg": ""
     },
     {
         "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "location": "",
+        "title": "",
+        "year": "",
+        "tags": [],
+        "description": "",
+        "readMore": "",
+        "image": "",
+        "jpg": ""
     }
 ]
