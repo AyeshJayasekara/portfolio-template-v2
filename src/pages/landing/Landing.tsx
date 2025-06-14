@@ -4,14 +4,14 @@ import { Center, Container, Heading, Image, HStack, Stack, Flex, Box, IconButton
 
 import { Content, configs, useContent, MarkdownFile } from "shared/content/Content";
 import { Socials } from "shared/socials/Socials";
-import { WorkPageId } from "utils/useScroll";
+import { AboutPageId } from "utils/useScroll";
 import { ChevronDownIcon } from "utils/Icons";
 
 export const Landing: FC = () => {
     const content = useContent(MarkdownFile.Landing);
 
     const scrollIntoView = () => {
-        const featuredHeader = document.getElementById(WorkPageId);
+        const featuredHeader = document.getElementById(AboutPageId);
 
         if (featuredHeader) {
             featuredHeader.scrollIntoView({ behavior: "smooth" });

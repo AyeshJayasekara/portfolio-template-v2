@@ -1,10 +1,14 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome 👋 I'm a _Software Engineer_ based out of Darwin, Australia.
+I am currently reading for my masters degree in Information & Communication Technology, 
+with over 5 years of industry expertise in **Software Design**, **Implementation** and **Cloud Transformation**.
 
 I'm currently working with,
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+- Java
+- Spring Boot, Batch & MVC
+- React (TS)
+- Expo
+- NodeJS
+- ExpressJs
+- Python
+- HTML/CSS & Javascript

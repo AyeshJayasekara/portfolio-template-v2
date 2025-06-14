@@ -12,10 +12,10 @@ import { VolumeIcon } from "utils/Icons";
 export const About: FC = () => {
     const content = useContent(MarkdownFile.About);
 
-    const onPlay = () => {
-        const audio = new Audio(configs.common.audioFile);
-        audio.play();
-    };
+    // const onPlay = () => {
+    //     const audio = new Audio(configs.common.audioFile);
+    //     audio.play();
+    // };
 
     return (
         <Box>
@@ -30,21 +30,21 @@ export const About: FC = () => {
                 <Box flex="0.85">
                     <Heading data-aos="fade-down">{configs.common.name}</Heading>
                     <Flex alignItems="center">
-                        <Text fontWeight="bold" opacity="0.5" data-aos="fade" data-aos-delay="200">
-                            {configs.common.pronunciation}
-                        </Text>
+                        {/*<Text fontWeight="bold" opacity="0.5" data-aos="fade" data-aos-delay="200">*/}
+                        {/*    {configs.common.pronunciation}*/}
+                        {/*</Text>*/}
 
-                        <Button
-                            size="xs"
-                            aria-label="pronunciation button"
-                            as={IconButton}
-                            variant="icon"
-                            fontSize="md"
-                            icon={<VolumeIcon />}
-                            onClick={onPlay}
-                            data-aos="fade"
-                            data-aos-delay="400"
-                        />
+                        {/*<Button*/}
+                        {/*    size="xs"*/}
+                        {/*    aria-label="pronunciation button"*/}
+                        {/*    as={IconButton}*/}
+                        {/*    variant="icon"*/}
+                        {/*    fontSize="md"*/}
+                        {/*    icon={<VolumeIcon />}*/}
+                        {/*    onClick={onPlay}*/}
+                        {/*    data-aos="fade"*/}
+                        {/*    data-aos-delay="400"*/}
+                        {/*/>*/}
                     </Flex>
                     <Box pt="4" data-aos="fade-up" data-aos-delay="400">
                         <Content fontSize="lg">{content.about}</Content>
@@ -57,7 +57,7 @@ export const About: FC = () => {
                 mt="16"
                 justifyContent="space-between"
             >
-                <Box flex="0.6" flexShrink="0" overflow="hidden">
+                <Box flex="0.6" flexShrink={0} overflow="hidden">
                     <Education />
                 </Box>
                 <Box flex="0.6" overflow="hidden">
@@ -67,9 +67,9 @@ export const About: FC = () => {
             <Box pt="16">
                 <Skills />
             </Box>
-            <Box pt="16">
-                <Blog />
-            </Box>
+            {/*<Box pt="16">*/}
+            {/*    <Blog />*/}
+            {/*</Box>*/}
         </Box>
     );
 };

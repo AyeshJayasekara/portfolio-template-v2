@@ -1,5 +1,14 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+Hi there ✌️ nice to meet you! I'm a _[Fullstack] Software Engineer_ with an enthusiastic curiosity. 
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
+With over half a decade of industry exposure at various positions & capacities, I am a well-seasoned engineer _[trust me on this one!]_.
+Deeper understanding of design principles, data structures & algorithms, Object-Oriented Programming paradigms are 
+key aspects that I bring to any team. Being a bit of a perfectionist, I usually pay attention to the detail & values quality 
+of work that I engage in. 
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+Highly motivated, team player ready to take up any technical challenge & deliver results not excuses. My stronghold is 
+**Java** with **Spring Framework**. I am a fast learner with solid understanding of basics, so language does not really matter at all.
+Naturally, my right-brain is a little foggy. Maintain extreme caution ⚠️ before asking me to 
+ match the colors of your frontend. You are guaranteed to have colors, but only 3 of them.
+
+A classic car enthusiast, of course, I own 1989 built **_BMW E30 316i_** my childhood dream car 🚘 !
+Loves to go on long drives & occasionally a jungle safari to see my friends **🐆** ..

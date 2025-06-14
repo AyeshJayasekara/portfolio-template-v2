@@ -1,31 +1,26 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "bizao",
+        "title": "Bizao | Payment hub in Africa",
+        "year": "Oct 2020 - Oct 2021",
+        "location": "Sri Lanka | Remote",
+        "tags": ["Java", "Spring Boot", "Spring Batch", "WSO2 Telco", "WSO2 ESB", "SonarQube", "Jenkins", "CI/CD", "FinTech"],
+        "description": "Bizao is a Fintech headquartered in Paris and operating in ten African countries. Primarily, I engaged in designing & implementing new integrations with third party mobile wallet providers. Playing a challenging role as an Associate Technical Lead (Java), I was entrusted to overlook performance sensitive modules, that required security compliance as well as performance optimization. ",
+        "image": "/assets/featured-projects/bizao.png",
+        "jpg": "/assets/featured-projects/bizao.png"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "id": "helaviru",
+        "title": "Helaviru Marketplace",
+        "year": "Nov 2018 - Sep 2020",
+        "location": "Sri Lanka",
+        "tags": ["Java", "Spring Boot", "Spring Batch","Angular 11", "TypeScript", "Jenkins", "SonarQube", "Spring Cloud", "Flyway","AWS"],
+        "description": "HELAVIRU is a state-of-the-art Digital Economic Center that enables trading (buying & selling) of Agro-produce, Farm Products & Commodities among diverse stakeholders on a seamlessly connected supply-chain. A pet project turned into a massive hit during COVID-19. I contributed as a software engineer, working head to head with an awesome bunch of engineers! I was recognized, promoted to senior engineer since I cleared quite a few technical roadblocks..",
+        "image": "/assets/featured-projects/helaviru.png",
+        "jpg": "/assets/featured-projects/helaviru.png"
     },
     {
-        "id": "featured-project-scrapbook",
+        "id": "shopex",
         "title": "Scrapbook",
         "year": "Jan 2021 - May 2021",
         "location": "Indiana University",

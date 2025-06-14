@@ -1,30 +1,30 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Ayesh Jayasekara",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "AJ",
+        "desktop": "Ayesh Jayasekara"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
-    "audioFile": "/assets/name-pro.mp3",
+    "mainPicture": "/assets/profile-3.jpg",
+    "mainPictureJPG": "/assets/profile-3.jpg",
+
+
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
+    "email": "ejkpac@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ayesh-jayasekara/",
+    "github": "https://github.com/AyeshJayasekara",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/ayesh-jayasekara/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/AyeshJayasekara"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:ejkpac@gmail.com"
         }
     ]
 }
